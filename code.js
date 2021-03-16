@@ -1,1 +1,1 @@
-$('[value="add to cart"]').click()
+$('[class="button remove"]').click()
